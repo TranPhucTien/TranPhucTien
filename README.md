@@ -1,6 +1,6 @@
 <!-- Tran Phuc Tien - Trungquandev -->
 <a href="#" target="_blank">
-  <img src="./trungquandev-main/svg/trungquandev.svg" width="1200" alt="Click to see the source" />
+  <img src="https://github.com/TranPhucTien/TranPhucTien/blob/master/trungquandev-main/svg/trungquandev.svg" width="1200" alt="Click to see the source" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
