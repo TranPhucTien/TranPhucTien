@@ -24,8 +24,8 @@
 
 <h2 align="center">📑 Random Quotes 📑</h2>
 <br>
-<div align="right">
+<div align="center">
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=default&layout=default&font=default&quoteType=random)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
