@@ -12,8 +12,8 @@
   <a href="https://www.facebook.com/tranphuctien2003" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="tranphuctien-facebook" />
   </a>
-  <!-- <a href="https://www.linkedin.com/in/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+  <!-- <a href="https://www.linkedin.com/in/..." target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="phuctien-linkedin" />
   </a> -->
   <a href="mailto:tranphuctien2003nd@gmail.compúh" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="tranphuctien-email" />
@@ -24,9 +24,8 @@
 
 <h2 align="center">📑 Random Quotes 📑</h2>
 <br>
-<!-- https://github.com/shravan20/github-readme-quotes -->
 <div align="right">
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=default&layout=default&font=default&quoteType=random)
 
 </div>
